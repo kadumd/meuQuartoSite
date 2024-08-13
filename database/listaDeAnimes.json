@@ -1,0 +1,97 @@
+[
+    {
+        "id": 0,
+        "nome": "Boku no Hero",
+        "data_de_lançamento": "19-05-2016",
+        "episódios" : 138,
+        "capa": "https://th.bing.com/th/id/R.ff08510d28824da7be65b9595b03fc68?rik=PzxxHYL1NS87jA&pid=ImgRaw&r=0"
+    },
+
+    {
+        "id": 1,
+        "nome": "Kimetsu no Yaiba",
+        "data_de_lançamento": "04-12-2019",
+        "episódios" : 138,
+        "capa": "https://sm.ign.com/ign_br/screenshot/default/kimetsu_6jp8.jpg"
+    },
+
+    {
+        "id": 2,
+        "nome": "Bleach",
+        "data_de_lançamento": "08-2024",
+        "episódios" : 366,
+        "capa": "https://media.fstatic.com/-SQOZNtRvfVHB0UkWntzbOpxypU=/290x478/smart/media/movies/covers/2014/11/bleach-2a-temporada_t26016.jpg"
+    },  
+
+    {
+        "id": 3,
+        "nome": "Blue Lock",
+        "data_de_lançamento": "10-2022",
+        "episódios" : 24,
+        "capa": "https://th.bing.com/th/id/OIP.-7AKEs42BU4CLcmXmBboUwHaLH?rs=1&pid=ImgDetMain"
+    },
+
+    {
+        "id": 4,
+        "nome": "Record of Ragnarock",
+        "data_de_lançamento": "17-06-2011",
+        "episódios" : 27,
+        "capa": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781974729777/record-of-ragnarok-vol-3-9781974729777_hr.jpg"
+    },
+
+    {
+        "id": 5,
+        "nome": "One Piece",
+        "data_de_lançamento": "-------",
+        "episódios" : "1086-",
+        "capa": "https://th.bing.com/th/id/OIP.aDZ6ZwSrgcqqh3gUhkKeygHaLx?rs=1&pid=ImgDetMain"
+    },
+
+    {
+        "id": 6,
+        "nome": "Naruto",
+        "data_de_lançamento": "01-2007",
+        "episódios" : 500,
+        "capa": "https://th.bing.com/th/id/R.a8e4646115a6a1eff45a38eaf12cd549?rik=Fat23%2fqk5TUjFg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-WvB7nqiuZCc%2fUyXAb5MgcvI%2fAAAAAAAAA00%2fSH1LFrAa3io%2fs1600%2fNaruto.jpg&ehk=RGP2apCHtnKexT8jgDx8B2doPh6jHiExlK1laZjzXyE%3d&risl=&pid=ImgRaw&r=0"
+    },
+
+    {
+        "id": 7,
+        "nome": "Dragon Ball",
+        "data_de_lançamento": "-------",
+        "episódios" : 153,
+        "capa": "https://th.bing.com/th/id/R.3abcfdff80a0be35e9f935b511a75d7b?rik=vRJkoGkOuoz7Eg&pid=ImgRaw&r=0"
+    },
+
+    {
+        "id": 8,
+        "nome": "Solo Leveling",
+        "data_de_lançamento": "06-01-2024",
+        "episódios" : 25,
+        "capa": "https://anitrendz.net/news/wp-content/uploads/2021/05/Solo-Leveling-Cover_Art.jpg"
+    },
+
+    {
+        "id": 9,
+        "nome": "Kaiju No.8",
+        "data_de_lançamento": "09-04-2024",
+        "episódios" : 12,
+        "capa": "https://th.bing.com/th/id/OIP.5oA21ENPLcmTpsg7zOnAfwHaLH?rs=1&pid=ImgDetMain"
+    },
+
+    {
+        "id": 10,
+        "nome": "Sense Life",
+        "data_de_lançamento": "29-07-2021",
+        "episódios" : 11,
+        "capa": "https://i.pinimg.com/736x/a1/ad/43/a1ad4344d07f9723185bb26facf277fc.jpg"
+    },
+
+    {
+        "id": 11,
+        "nome": "The Beginning After The End",
+        "data_de_lançamento": "-------",
+        "episódios" : 188,
+        "capa": "https://th.bing.com/th/id/OIP.VdMCJB8DG5OKxPhv1F5cZwHaL0?rs=1&pid=ImgDetMain"
+    }
+]
