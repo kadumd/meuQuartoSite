@@ -2,10 +2,10 @@
   "name": "meuprimeirosite",
   "version": "1.0.0",
   "description": "\"O primeiro site de um jovem programador\"",
-  "main": "/api/index.js",
+  "main": "/API/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node /api/index.js"
+    "start": "node /API/index.js"
   },
   "author": "Eu",
   "license": "ISC"
