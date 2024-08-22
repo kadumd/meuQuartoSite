@@ -3,7 +3,7 @@
   "builds": [
     {
       "src": "frontend/view/**/*",
-      "use": "@vercel/edge"
+      "use": "@vercel/build-utils"
     }
   ],
   "routes": [
