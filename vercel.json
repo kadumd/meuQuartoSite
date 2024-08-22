@@ -8,15 +8,15 @@
   ],
   "routes": [
     {
-      "src": "/(.*)",
+      "src": "/",
       "dest": "/frontend/view/index.html"
     },
     {
-      "src": "/mangas(.*)",
+      "src": "/mangas",
       "dest": "/frontend/view/mangas.html"
     },
     {
-      "src": "/filmes(.*)",
+      "src": "/filmes",
       "dest": "/frontend/view/filmes.html"
     }
   ]
