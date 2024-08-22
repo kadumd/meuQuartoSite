@@ -12,7 +12,7 @@
       "dest": "/frontend/view/$1"
     },
     {
-      "src": "/mangas(.*)",
+      "src": "/mangas/(.*)",
       "dest": "/frontend/view/$1"
     }
   ]
