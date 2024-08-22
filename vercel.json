@@ -9,18 +9,15 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/frontend/view/index.html",
-      "dest2": "/frontend/view/index.css"
+      "dest": "/frontend/view/index.html"
     },
     {
       "src": "/mangas(.*)",
-      "dest": "/frontend/view/mangas.html",
-      "dest2": "/frontend/view/index.html"
+      "dest": "/frontend/view/mangas.html"
     },
     {
       "src": "/filmes(.*)",
-      "dest": "/frontend/view/filmes.html",
-      "dest2": "/frontend/view/index.html"
+      "dest": "/frontend/view/filmes.html"
     }
   ]
 }
