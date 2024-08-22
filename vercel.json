@@ -2,18 +2,14 @@
   "version": 2,
   "builds": [
     {
-      "src": "frontend/view/**/*",
-      "use": "@vercel/static"
+      "src": "./index.js",
+      "use": "@vercel/node"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/frontend/view/$1"
-    },
-    {
-      "src": "/mangas(.*)",
-      "dest": "/frontend/view/$1"
+      "dest": "/"
     }
   ]
 }
