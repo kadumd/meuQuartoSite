@@ -8,7 +8,7 @@
   ],
   "routes": [
     {
-      "src": "/assa(.*)",
+      "src": "/(.*)",
       "dest": "/frontend/view/$1"
     }
   ]
