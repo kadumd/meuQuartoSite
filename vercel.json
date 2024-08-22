@@ -3,12 +3,12 @@
   "builds": [
     {
       "src": "frontend/view/**/*",
-      "use": "@vercel/webpack"
+      "use": "@vercel/static"
     }
   ],
   "routes": [
     {
-      "src": "/(.*)",
+      "src": "/assa(.*)",
       "dest": "/frontend/view/$1"
     }
   ]
