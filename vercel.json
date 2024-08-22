@@ -3,7 +3,7 @@
   "builds": [
     {
       "src": "frontend/view/**/*",
-      "use": "@vercel/cli"
+      "use": "@vercel/og"
     }
   ],
   "routes": [
