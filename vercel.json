@@ -14,6 +14,10 @@
     {
       "src": "/(.*)",
       "dest": "/API/index.js"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/frontend/view/$1"
     }
   ]
 }
