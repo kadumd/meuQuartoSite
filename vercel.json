@@ -16,7 +16,7 @@
       "dest": "/API/index.js"
     },
     {
-      "src": "/(.*)",
+      "src": "/mangas",
       "dest": "/frontend/view/$1"
     }
   ]
