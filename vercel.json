@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/mangas(.*)",
-      "dest": "/frontend/view/$1"
+      "dest": "/frontend/view/$2"
     }
   ]
 }
