@@ -10,10 +10,6 @@
     {
       "src": "/(.*)",
       "dest": "/frontend/view/$1"
-    },
-    {
-      "src": "mangas(.*)",
-      "dest": "/frontend/view/$1"
     }
   ]
 }
