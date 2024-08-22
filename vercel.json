@@ -2,6 +2,10 @@
   "version": 2,
   "builds": [
     {
+      "src": "API/index.js",
+      "use": "@vercel/node"
+    },
+    {
       "src": "frontend/view/**/*",
       "use": "@vercel/static"
     }
@@ -9,7 +13,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/frontend/view/$1"
+      "dest": "/API/index.js"
     }
   ]
 }
