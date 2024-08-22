@@ -10,6 +10,10 @@
     {
       "src": "/(.*)",
       "dest": "/frontend/view/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/frontend/view/$1"
     }
   ]
 }
