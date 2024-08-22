@@ -3,16 +3,12 @@
   "builds": [
     {
       "src": "frontend/view/**/*",
-      "use": "@vercel/static"
+      "use": "@vercel/build-utils"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/frontend/view/$1"
-    },
-    {
-      "src": "/mangas",
       "dest": "/frontend/view/$1"
     }
   ]
