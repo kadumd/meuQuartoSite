@@ -12,6 +12,10 @@
       "dest": "/frontend/view/index.html"
     },
     {
+      "src": "/css/index.css",
+      "dest": "/frontend/view/css/index.css"
+    },
+    {
       "src": "/mangas",
       "dest": "/frontend/view/mangas.html"
     },
