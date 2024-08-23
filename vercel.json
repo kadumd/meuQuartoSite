@@ -15,13 +15,29 @@
       "src": "/css/index.css",
       "dest": "/frontend/view/css/index.css"
     },
+
+
     {
       "src": "/mangas",
       "dest": "/frontend/view/mangas.html"
     },
     {
+      "src": "/css/mangas.css",
+      "dest": "/frontend/view/css/mangas.css"
+    },
+    {
+      "src": "/js/mangas.js",
+      "dest": "/frontend/view/js/mangas.js"
+    },
+
+
+    {
       "src": "/filmes",
       "dest": "/frontend/view/filmes.html"
+    },
+    {
+      "src": "/css/filmes.css",
+      "dest": "/frontend/view/css/filmes.css"
     }
   ]
 }
