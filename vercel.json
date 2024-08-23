@@ -29,6 +29,11 @@
       "src": "/js/mangas.js",
       "dest": "/frontend/view/js/mangas.js"
     },
+    {
+      "src": "/database/listaDeAnimes.json",
+      "dest": "/database/listaDeAnimes.json"
+    },
+    
 
 
     {
