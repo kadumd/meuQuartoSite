@@ -4,6 +4,10 @@
     {
       "src": "frontend/view/**/*",
       "use": "@vercel/static"
+    },
+    {
+      "src":"database/**/*",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
@@ -31,7 +35,7 @@
     },
     {
       "src": "/database/listaDeAnimes.json",
-      "dest": "/database/package.json"
+      "dest": "/database/listaDeAnimes.json"
     },
     
 
